@@ -1,0 +1,12 @@
+{
+  "name": "link-image",
+  "version": "1.0.0",
+  "description": "Convert image to WebP, push to GitHub, return raw link",
+  "type": "module",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
