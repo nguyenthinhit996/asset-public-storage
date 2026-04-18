@@ -1,0 +1,15 @@
+{
+  "name": "img-to-webp",
+  "version": "1.0.0",
+  "description": "Convert images to WebP using sharp",
+  "type": "module",
+  "scripts": {
+    "convert": "node scripts/convert.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

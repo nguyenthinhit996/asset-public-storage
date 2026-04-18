@@ -1,0 +1,9 @@
+{
+  "name": "git-push-raw",
+  "version": "1.0.0",
+  "description": "Commit, push to GitHub, and print raw CDN links",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
